@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "prefabPath": "/Users/rajanmalakar/.gradle/caches/modules-2/files-2.1/com.google.prefab/cli/2.1.0/aa32fec809c44fa531f01dcfb739b5b3304d3050/cli-2.1.0-all.jar",
+  "packages": [
+    "/Users/rajanmalakar/.gradle/caches/8.12/transforms/157f6953944db6e6ef7acd93f555e5b3/transformed/react-android-0.78.1-release/prefab",
+    "/Users/rajanmalakar/Downloads/RajanWorking/HUHAHO/huhaho-android-21-03/huhaho/node_modules/react-native-reanimated/android/build/intermediates/prefab_package/release/prefab",
+    "/Users/rajanmalakar/.gradle/caches/8.12/transforms/6b23910fa8035a6e5174a49c867ae2f0/transformed/hermes-android-0.78.1-release/prefab",
+    "/Users/rajanmalakar/.gradle/caches/8.12/transforms/c34ab63c09824bc3e0d55c269b43bb1e/transformed/fbjni-0.7.0/prefab"
+  ]
+}

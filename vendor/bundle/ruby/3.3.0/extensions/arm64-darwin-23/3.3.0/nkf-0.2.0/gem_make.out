@@ -1,0 +1,18 @@
+current directory: /Users/rajanmalakar/Downloads/RajanWorking/HUHAHO/huhaho-android-21-03/huhaho/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/rajanmalakar/Downloads/RajanWorking/HUHAHO/huhaho-android-21-03/huhaho/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250321-22049-c9mp1p sitelibdir\=./.gem.20250321-22049-c9mp1p clean
+
+current directory: /Users/rajanmalakar/Downloads/RajanWorking/HUHAHO/huhaho-android-21-03/huhaho/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250321-22049-c9mp1p sitelibdir\=./.gem.20250321-22049-c9mp1p
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/rajanmalakar/Downloads/RajanWorking/HUHAHO/huhaho-android-21-03/huhaho/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250321-22049-c9mp1p sitelibdir\=./.gem.20250321-22049-c9mp1p install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20250321-22049-c9mp1p
+
+current directory: /Users/rajanmalakar/Downloads/RajanWorking/HUHAHO/huhaho-android-21-03/huhaho/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250321-22049-c9mp1p sitelibdir\=./.gem.20250321-22049-c9mp1p clean

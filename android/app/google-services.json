@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "83713995520",
+    "project_id": "huhaho-104db",
+    "storage_bucket": "huhaho-104db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83713995520:android:1469d8d567dc066177b9e5",
+        "android_client_info": {
+          "package_name": "com.huhaho"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACTr_f-C5-W5V1EaQ2RsYcED52nHrEYJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
